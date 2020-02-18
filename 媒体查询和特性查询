@@ -1,0 +1,2 @@
+在应用@supports时，同时用逻辑运算符and和or时应该在选择其中两个property-value加大括号以确定先后顺序
+
